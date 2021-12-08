@@ -4,7 +4,7 @@ I am a full-stack web developer specializing in the MERN Tech stack. Currently d
 
 Skills: REACT / JS / HTML / CSS 
 
-- 🔭 I’m currently working on this page. 
+
 - 🌱 I’m currently learning Full Stack web development from Masai School 
 - 📫 How to reach me: vivekkumarvky13@gmail.com 
 
