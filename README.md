@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Vivek
-#### I am Full stack web developer
+#### Full stack web developer
 I am a full-stack web developer specializing in the MERN Tech stack. Currently doing a full-stack web development course from Masai school.
 
 <h3 align="left">Languages and Tools:</h3>
