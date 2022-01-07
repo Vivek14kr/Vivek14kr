@@ -19,9 +19,9 @@ I am a full-stack web developer specializing in the MERN Tech stack. Currently d
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek14kr)](https://github.com/anuraghazra/github-readme-stats)
 
- <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vivek14kr&show_icons=true)  
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vivek14kr&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Vivek14kr)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Vivek14kr)  
- -->
+
