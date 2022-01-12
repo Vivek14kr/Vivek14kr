@@ -26,8 +26,8 @@ I am a full-stack web developer specializing in the MERN Tech stack. Currently d
 
 <br>
 
-<br>
-
+<h3 align="left">My Github Stats:</h3>
+<hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek14kr)](https://github.com/anuraghazra/github-readme-stats)
 
