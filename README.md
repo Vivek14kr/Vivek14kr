@@ -16,7 +16,7 @@ I am a full-stack web developer specializing in the MERN Tech stack. Currently d
 <h3 align="left">Connect with me:</h3>
 <hr>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Vivek14kr) &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/vivek-kumar-56a0a81a6//)  
+[<img src='https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg' alt='github' height='40'>](https://github.com/Vivek14kr) &nbsp; [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/vivek-kumar-56a0a81a6//)  
 
 <br>
 
