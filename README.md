@@ -10,7 +10,7 @@ I am a full-stack web developer specializing in the MERN Tech stack. Currently w
 
 - 🌱 I’m currently Working as a Full stack Developer. 
 - 📫 How to reach me: vivekkumarvky13@gmail.com 
-- ✍ My Portfolio: https://portfolio-vivek-kr.herokuapp.com/
+- ✍ My Portfolio: https://roaring-jelly-6a8eed.netlify.app/
 - ⚽ In my free time, I like to play chess and read books (Non-fiction)
 <br>
 
