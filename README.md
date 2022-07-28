@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Vivek
 #### Full stack web developer
-I am a full-stack web developer specializing in the MERN Tech stack. Currently doing a full-stack web development course from Masai school. I am a curious soul when it comes to technology and is fascinated by the progress of mankind in terms of technology, as a tool to make the daily lives of people easier.
+I am a full-stack web developer specializing in the MERN Tech stack. Currently working as a full stack developer. I am a curious soul when it comes to technology and is fascinated by the progress of mankind in terms of technology, as a tool to make the daily lives of people easier.
 
 
 
@@ -8,7 +8,7 @@ I am a full-stack web developer specializing in the MERN Tech stack. Currently d
 <hr>
 
 
-- 🌱 I’m currently learning React. 
+- 🌱 I’m currently Working as a Full stack Developer. 
 - 📫 How to reach me: vivekkumarvky13@gmail.com 
 - ✍ My Portfolio: https://portfolio-vivek-kr.herokuapp.com/
 - ⚽ In my free time, I like to play chess and read books (Non-fiction)
